@@ -500,7 +500,7 @@ export async function insertDatabase() {
                     let skills = [
                         {
                             name: 'BABYSITTING',
-                            vname: 'Giữ trẻ',
+                            vname: 'Trẻ nhỏ (trên 1 tuổi)',
                             active: true,
                             point: 1,
                         },
